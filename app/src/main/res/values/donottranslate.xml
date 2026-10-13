@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Simon-Galleria</string>
+    <string name="gif">GIF</string>
+    <string name="raw">RAW</string>
+    <string name="svg">SVG</string>
+    <string name="package_name">com.simonecompany.simongalleria</string>
+    <string name="playback_speed_display_text">2x >></string>
+</resources>
